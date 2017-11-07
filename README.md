@@ -19,9 +19,23 @@ Curso en español para personas que deseen mejorar su conocimiento de Javascript
 # Temas
 
 - Clausuras
-- Los operadores && y ||
+- Los operadores `&&` y `||`
+- Pogramación funcional "light"
+  - Tus nuevos mejores amigos: map, filter, reduce
+  - map
+  - filter
+  - reduce
 - Promesas
+  - Encadenando promesas
+  - Promesas en bloque
+    - Parando al primer fallo
+    - Ignorando fallos y continuando ejecución
+- Default params
 - Destructuring
+  - Reconociendo errores derivados del destructuring
+    - Objetos
+    - Arrays
+    - Soluciones
 - Métodos mágicos
  - toString
  - toJSON
