@@ -37,10 +37,10 @@ Curso en español para personas que deseen mejorar su conocimiento de Javascript
     - Arrays
     - Soluciones
 - Métodos mágicos
- - toString
- - toJSON
- - valueOf
- 
+  - toString
+  - toJSON
+  - valueOf
+ - Comparacion estricta: que es, por que y casos curiosos
  # Acerca del autor
  
  Mi nombre es Daniel Rodríguez Rivero, aunque quienes me conocen me llaman Danielo, siéntase libre de hacerlo usted también.
